@@ -1,7 +1,7 @@
 <h1 align="center">PathFinder-Player</h1>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/54114888/211217271-ab907484-840a-40cb-9dd3-7bf9391e458a.png" width="180" height="180">
+<img src="https://user-images.githubusercontent.com/54114888/230448439-0e7fc0a0-fdc0-473a-bf68-1b6931462e68.png" width="180" height="180">
 </p>
 
 ## 📜 Description:
@@ -11,7 +11,7 @@ Developed an MMORPG game where a simple Player finds the shortest movable path a
 
 ## 🧠 Working of Project:
 <p align="center">
-<img src="https://user-images.githubusercontent.com/54114888/212465848-3abfaa28-31a9-4428-92f4-0cd81da77080.png" width="800">
+<img src="https://user-images.githubusercontent.com/54114888/230447568-180a6f79-6387-4e89-b918-47361747eb22.png" width="800">
 </p>
 
 ## 🏗 Built With:
@@ -23,7 +23,6 @@ Developed an MMORPG game where a simple Player finds the shortest movable path a
 - Open the file "Navmesh_Pathfinder_v1.exe" and it will start the Unity Game.
 
 ## 💥 How to Contribute?
-
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
 
